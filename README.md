@@ -1,4 +1,4 @@
-# :video_game:Phantom-Thief(22년, 게임프로그래밍 기말 프로젝트)
+# :gem:Phantom-Thief(22년, 게임프로그래밍 기말 프로젝트)
 
 #### 2122년도 배경. 사이보그 경비를 피해 박물관에 전시된 블루 다이아몬드(Hope Diamond)을 훔치는 게임. 제한적인 움직임을 극복하고 택배를 집으면 게임 종료.
 
@@ -26,7 +26,7 @@
 - 경비병의 조명을 통해 피할 수 있는 시야를 의식할 수 있고, 경비병이 플레이어를 인식한 경우 조명의 색상이 변함.
 ---
 
-## 게임 세부 이미지
+## :round_pushpin:게임 세부 이미지:round_pushpin:
 :one:<img src = https://user-images.githubusercontent.com/65931605/222872972-ef02eadd-3934-41c9-bd3c-3c78d151c67e.png height=200 width=380> :two:<img src = https://user-images.githubusercontent.com/65931605/222872951-4f256076-c320-4899-98e7-1b6a0bdb6e00.png height=200 width=380> 
 
 :three:<img src = https://user-images.githubusercontent.com/65931605/222872967-375a4233-3ec6-43e9-9998-f936e1c95e2c.png height=200 width=380> :four:<img src = https://user-images.githubusercontent.com/65931605/222872973-420ed086-8b2a-4b27-876d-d48345154159.png height=200 width=380>
@@ -52,5 +52,5 @@
 
 --
 
-## Bad Ending
+## :clapper:Bad Ending
 <img src = https://user-images.githubusercontent.com/65931605/222873802-1746842d-a5ca-44ac-99e3-e77e8d7dc68d.gif height=280 width=450>
