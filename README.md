@@ -47,4 +47,4 @@
 
 
 ## :movie_camera:게임 영상
-[![Video Label](https://user-images.githubusercontent.com/65931605/222873469-93602f3d-ffaa-4310-b9a0-a78707637f7b.png height=200 width=380)](https://youtu.be/8cu293eme3Q)
+[![Video Label](https://img.youtube.com/vi/8cu293eme3Q/0.jpg)](https://youtu.be/8cu293eme3Q)
