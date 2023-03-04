@@ -48,3 +48,9 @@
 
 ## :movie_camera:게임 영상
 [![Video Label](https://img.youtube.com/vi/8cu293eme3Q/0.jpg)](https://youtu.be/8cu293eme3Q)
+
+
+--
+
+## Bad Ending
+<img src = https://user-images.githubusercontent.com/65931605/222873802-1746842d-a5ca-44ac-99e3-e77e8d7dc68d.gif height=280 width=450>
