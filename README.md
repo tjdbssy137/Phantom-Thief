@@ -27,13 +27,13 @@
 ```
 
 ## 게임 세부 이미지
-:one:<img src = https://user-images.githubusercontent.com/65931605/222872951-4f256076-c320-4899-98e7-1b6a0bdb6e00.png height=200 width=380> :two:<img src = https://user-images.githubusercontent.com/65931605/222872955-9da280af-7b2b-47ee-b243-e69897c8d32c.png height=200 width=380>
-
-:three:<img src = https://user-images.githubusercontent.com/65931605/222872963-b4c4597b-42c3-490a-9ff0-8221697db153.png height=200 width=380> :four:<img src = https://user-images.githubusercontent.com/65931605/222872967-375a4233-3ec6-43e9-9998-f936e1c95e2c.png height=200 width=380>
-
-:five:<img src = https://user-images.githubusercontent.com/65931605/222872970-c75a9100-6d20-4101-ae56-62e1b5398aa7.png height=200 width=380> :six:<img src = https://user-images.githubusercontent.com/65931605/222872972-ef02eadd-3934-41c9-bd3c-3c78d151c67e.png height=200 width=380>
-
-:seven:<img src = https://user-images.githubusercontent.com/65931605/222872973-420ed086-8b2a-4b27-876d-d48345154159.png height=200 width=380> :eight:<img src = https://user-images.githubusercontent.com/65931605/222872974-6b713c83-8930-4deb-ac1a-3e3b2560fc5b.png height=200 width=380>
+:one:<img src = https://user-images.githubusercontent.com/65931605/222872972-ef02eadd-3934-41c9-bd3c-3c78d151c67e.png height=200 width=380>
+:two:<img src = https://user-images.githubusercontent.com/65931605/222872951-4f256076-c320-4899-98e7-1b6a0bdb6e00.png height=200 width=380> 
+:three:<img src = https://user-images.githubusercontent.com/65931605/222872967-375a4233-3ec6-43e9-9998-f936e1c95e2c.png height=200 width=380>
+:four:<img src = https://user-images.githubusercontent.com/65931605/222872973-420ed086-8b2a-4b27-876d-d48345154159.png height=200 width=380>
+:five:<img src = https://user-images.githubusercontent.com/65931605/222872970-c75a9100-6d20-4101-ae56-62e1b5398aa7.png height=200 width=380> 
+:six:<img src = https://user-images.githubusercontent.com/65931605/222872963-b4c4597b-42c3-490a-9ff0-8221697db153.png height=200 width=380> 
+:seven:<img src = https://user-images.githubusercontent.com/65931605/222872955-9da280af-7b2b-47ee-b243-e69897c8d32c.png height=200 width=380>
 
 
 ---
