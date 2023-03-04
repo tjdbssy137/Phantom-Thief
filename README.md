@@ -23,7 +23,6 @@
 - 초기 목표 설정, 부수적인 아이템 획득, 목표 재설정, 최종 아이템 획득의 순으로 진행.
 - 경비병의 조명을 통해 피할 수 있는 시야를 의식할 수 있고, 경비병이 플레이어를 인식한 경우 조명의 색상이 변함.
 ```
----
 
 ## 게임 세부 이미지
 :one:<img src = https://user-images.githubusercontent.com/65931605/222872972-ef02eadd-3934-41c9-bd3c-3c78d151c67e.png height=200 width=380> :two:<img src = https://user-images.githubusercontent.com/65931605/222872951-4f256076-c320-4899-98e7-1b6a0bdb6e00.png height=200 width=380> 
@@ -35,13 +34,8 @@
 :seven:<img src = https://user-images.githubusercontent.com/65931605/222872955-9da280af-7b2b-47ee-b243-e69897c8d32c.png height=200 width=380>
 
 
----
-
 ## :mag_right:게임 조작법   
    + A, D, S, W, space bar로 이동 및 점프
    + Shift 키로 달리기
    + Ctrl 키로 앉기
    + F 키로 아이템 줍기 및 점화
-
-
----
