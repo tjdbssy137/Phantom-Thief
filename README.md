@@ -41,3 +41,10 @@
    + Shift 키로 달리기
    + Ctrl 키로 앉기
    + F 키로 아이템 줍기 및 점화
+
+
+---
+
+
+## :movie_camera:게임 영상
+[![Video Label](https://img.youtube.com/vi/oN3Dvd0QyCE/0.jpg)](https://youtu.be/8cu293eme3Q)
